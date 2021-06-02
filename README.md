@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swapnil.
 - 👀 I’m interested in software development and open source contribution.
 - 🌱 Learning to enrich knowledge.
-- 💞️ Looking to collaborate on various open sources.
+- 💞️ Looking to collaborate on various open source projects.
 - 📫 Reach me out at swapnil8mishra@gmail.com
